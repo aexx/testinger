@@ -14,3 +14,7 @@ done
 Kommando: `ls -ltra /dev/`
 
 
+bliblablub
+
+
+
