@@ -17,12 +17,14 @@ Kommando: `ls -ltra /dev/`
 bliblablub
 bliblablub
 
-
-
+[source, bash]
+----
 2020-04-20_111434
 2020-04-20_11:17:22
 2020-04-20_11:34:20
-
 2020-04-25_185537
 
-*ausm web*
+
+----
+
+kommt *ausm web*
