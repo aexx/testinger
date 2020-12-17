@@ -107,18 +107,6 @@ Tables
 |6    |Three items|d
 |=======================
 
-Lists
-^^^^^
-
-* Q: How did the programmer die in the shower?
-  A: He read the shampoo instructions:
-
-  . Lather, rinse.
-  . Repeat.
-
-* There are only 10 kinds of people in this world:
-  - Those who understand binary.
-  - Those who don't.
 
 Misc
 ^^^^
@@ -144,15 +132,5 @@ it was the age of foolishness...
 
 * Links:
 ** http://asciidoclive.com/[AsciiDocLIVE^] is awesome!
-
-* Images:
-+
-image:https://i.imgur.com/AEkqoRn.jpg[alt="not bad.",width=128,height=128]
-
-* Videos:
-+
-video::th_H1gixMEE[youtube]
-
-* Pass-through: pass:[<div align="center"><b>pass through content</b></div>]
 
 
