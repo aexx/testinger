@@ -11,8 +11,8 @@ testinger **fuer** Tests
     2020-12-17_171143 
     2020-12-17 1 2 3 4 5 6 7L 8 9L 10 
    
-    2020-12-18_164117    Lokal [ ]  <=>  [ ] Github 
+    2020-12-18_164117    Lokal [ ]  <=>  [x] Github 
 
-                                x         x
+                                x          
      
 bliblablub
