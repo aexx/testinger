@@ -24,15 +24,15 @@ bliblablub
 2020-04-20_11:34:20
 2020-04-25_185537
 
-2020-04-25_191209 mit vi
-2020-04-25_191246 ausm web , darf bleiben nach git Konflikt-Bereinigung
+2020-04-25_191209 lokal mit vi
+2020-04-25_191246 auf github, nach git Konflikt-Bereinigung
 
 2020-04-25_200524 latitude
  [L] und [R] Konflikt bereinigt, L und R duerfen bleiben
-2020-11-15_170038 v. latitude | ausm web, soll bleiben
+2020-11-15_170038 latitude | github, soll bleiben
 
-2020-12-17 ausm web aspiX3950
-2020-12-17 zuhause au vom aspiX3950 , edit git cmds ohne commit, um zu sehen was passieret
+2020-12-17 github
+2020-12-17 aspiX3950, edit => git cmds ohne vorher commit, um zu sehen was passiert
 
 ----
 
